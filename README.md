@@ -21,7 +21,7 @@
 - 🚀 Passionate about **Full Stack Development and AI Applications**
 - 🧠 Strong foundation in **Data Structures & Algorithms**
 - 💡 Love building **real-world AI and web applications**
-- 📈 Solved **270+ problems on LeetCode**
+- 📈 Solved **300+ problems on LeetCode**
 
 📄 **Check out my Resume**  
 👉 [My Resume](https://mdsalman-portfolio.vercel.app/)
